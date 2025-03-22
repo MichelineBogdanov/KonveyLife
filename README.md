@@ -12,4 +12,4 @@ How to start:
    
    cd ./target
    
-   javaw -jar .\KonveyLife.jar <xFieldSize> <yFieldSize> <stepCount>
+   javaw -jar .\KonveyLife.jar [xFieldSize yFieldSize stepCount]
