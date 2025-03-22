@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="KonveyLife:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KonveyLife_jar</output-path>
+    <root id="root">
+      <element id="archive" name="KonveyLife.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="KonveyLife" />
+      </element>
+      <element id="library" level="project" name="Maven: com.googlecode.lanterna:lanterna:3.1.1" />
+    </root>
+  </artifact>
+</component>
