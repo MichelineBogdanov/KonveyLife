@@ -10,6 +10,6 @@ How to start:
    
    mvn clean install
    
-   cd ./target
+   cd .\target
    
    javaw -jar .\KonveyLife.jar [xFieldSize yFieldSize stepCount]
