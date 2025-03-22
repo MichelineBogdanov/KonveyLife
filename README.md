@@ -6,7 +6,9 @@ You need:
 - maven
 How to start:
 1. Copy project to your folder
-2. From root dir
+2. From root dir:
    mvn clean install
+   
    cd ./target
+   
    javaw -jar .\KonveyLife.jar <xFieldSize> <yFieldSize> <stepCount>
